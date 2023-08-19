@@ -2,6 +2,13 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
+
+/*
+/*/
+
+!/Assets/
+!/ProjectSettings/
+!.gitignore
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
